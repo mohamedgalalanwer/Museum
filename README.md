@@ -1,2 +1,8 @@
-# Museum
-Create a VR scene with navigation and instructions, which showcases the findings from your research. This could take the form of a gallery, a museum, or a more creative showcasing of the topics at hand. This scene should include at least 5 'display points' which educate viewers on the topic at hand. These display points can use VR objects, text, images, or video to convey the information at hand and must also emit relevant audio (either educational or complementary to the theme). Users should be able to freely navigate around the space to learn about the topic you have researched.
+# Google VR SDK for Unity
+
+Copyright (c) 2016 Google Inc. All rights reserved.
+
+For first time users, see the Get Started Guides for [Android Cardboard](https://developers.google.com/vr/unity/get-started-android), [Android Daydream](https://developers.google.com/vr/unity/get-started-controller), and [iOS Cardboard](https://developers.google.com/vr/unity/get-started-ios).
+
+For updates, known issues, upgrade instructions, see:
+[https://developers.google.com/vr/unity/release-notes](https://developers.google.com/vr/unity/release-notes)
